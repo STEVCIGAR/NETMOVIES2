@@ -1,7 +1,6 @@
 
 package login_page;
 import com.sun.javafx.font.coretext.CTFactory;
-import com.sun.xml.internal.bind.v2.runtime.reflect.opt.Const;
 import java.sql.*;
 
 import java.sql.Connection;
