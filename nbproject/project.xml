@@ -8,8 +8,6 @@
             <web-module-libraries/>
             <web-module-additional-libraries/>
             <source-roots>
-                <root id="src.Img.dir"/>
-                <root id="src.Import.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots>
